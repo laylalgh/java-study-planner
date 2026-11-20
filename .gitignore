@@ -1,0 +1,3 @@
+*.class
+/tasks.tsv
+/tasks.tsv.tmp
